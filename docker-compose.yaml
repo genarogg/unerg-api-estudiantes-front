@@ -1,0 +1,8 @@
+services:
+  unerg_solicitudes_front3:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: unerg_solicitudes_front4
+    ports:
+      - "3060:3000"
