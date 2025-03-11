@@ -3,7 +3,7 @@ const DEBUG = false
 
 
 const PUBLIC_NEXT_URL_BACKEND_DEV_SERVER_DEV = "http://localhost:4000"
-const PUBLIC_NEXT_URL_BACKEND_DEV_SERVER_PROD = "https://unerg-api.unerg.tech"
+const PUBLIC_NEXT_URL_BACKEND_DEV_SERVER_PROD = "https://unerg-estudiantes-api.unerg.tech"
 
 /* GOOGLE */
 const RECAPTCHA_KEY = "6Le6Hs4qAAAAALpq7YSNCUHfRp0aP13UbUBcHXdt"
