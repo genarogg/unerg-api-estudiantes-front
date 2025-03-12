@@ -3,6 +3,6 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: unerg_solicitudes_front4
+    container_name: unerg_api_front
     ports:
-      - "3060:3000"
+      - "3061:3000"
